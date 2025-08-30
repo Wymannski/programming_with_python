@@ -1,1 +1,3 @@
 pwk/
+*.idea
+*__pycache__*

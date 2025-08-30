@@ -1,0 +1,17 @@
+Item Id  Quantity    Price       Product Description
+-------------------------------------------
+10001        6       15.50       Dinner plate large
+10002        6       13.50       Dinner plate small
+10003        6       13.60       Bowl
+10005        2       12.20       Teacup
+10006        1       14.00       Mug
+10007        2       12.30       Coffee cup
+10008        6       16.50       Red wine glass
+10009        6       15.50       White wine glass
+10010        6        7.00       Wasser glas
+10011        3        6.00       Egg cup
+10012        8        5.00       Dinner knife
+10013        6        4.50       Fish knife
+10014        6        4.75       Soup spoon
+10016        6        3.50       Salad fork
+10018        6        4.75       Dinner fork
